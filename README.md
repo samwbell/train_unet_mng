@@ -6,3 +6,5 @@ This code is written for installation on a particular cluster, and the module lo
 
 To run the code, run main.py with a command line argument for the holdout set number ranging from 0 to 4.
 
+The data files are all far too large to be hosted here and can be downloaded from the Brown Digital Repository: https://repository.library.brown.edu/studio/item/bdr:1082415/
+
